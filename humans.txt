@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+# This is my new modification for the project.
     <name>
 
 # TECHNOLOGY COLOPHON
